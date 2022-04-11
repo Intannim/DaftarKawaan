@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510854849850",
+    "project_id": "daftarkawan-4d276",
+    "storage_bucket": "daftarkawan-4d276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510854849850:android:aba5dd5e33338fbc34dc03",
+        "android_client_info": {
+          "package_name": "com.intan.daftarkawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510854849850-noh98ia0nin6prqptlmpl7ro3r7pberm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD18jsC2W_C-5JhUGafb9bhmegqtfjyi2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510854849850-noh98ia0nin6prqptlmpl7ro3r7pberm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
